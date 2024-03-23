@@ -1,5 +1,5 @@
-# 【ReactNative入門】
-https://www.youtube.com/playlist?list=PLoFgufO-380VrNq1-g4CCH4pdkFEI9CJu
+## 参考動画
+【ReactNative入門】(https://www.youtube.com/playlist?list=PLoFgufO-380VrNq1-g4CCH4pdkFEI9CJu)
 
 # 実装内容
 - 環境構築
